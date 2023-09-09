@@ -15,7 +15,7 @@ Kombiniert die Informationen aus plz.json, plz_klima.json und nrwahl.json in ein
 
 ## klimabonus_average.py
 
-Berrechnet den Mittelwert des Erhaltenen Klimabnonus nach Stimmabgabe in der NR-Wahl 2019 und erstellt ein Balkendiagram.
+Berrechnet den Mittelwert des Erhaltenen Klimabonus nach Stimmabgabe in der NR-Wahl 2019 und erstellt ein Balkendiagram.
 
 ## klimabonus_bar.py
 Erstellt 4 Verteilungskurven für die Verschiedenen Kategorien und Partein
