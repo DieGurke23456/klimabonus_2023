@@ -46,5 +46,6 @@ for i, party in enumerate(parties):
 
 # Adjust spacing between subplots
 plt.tight_layout()
+plt.savefig('klimabonus_bar_split.png')
 
 plt.show()

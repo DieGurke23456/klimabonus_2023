@@ -47,5 +47,7 @@ ax.set_xticks(np.arange(len(categories)) + width * (len(parties) / 2))
 ax.set_xticklabels(categories)
 ax.legend()
 
+plt.savefig('klimabonus_bar.png')
+
 plt.show()
 

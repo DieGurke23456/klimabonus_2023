@@ -54,6 +54,8 @@ for bar in bars:
     yval = bar.get_height()
     plt.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 2), va='bottom', ha='center', color='black', fontweight='bold')
 
+plt.savefig('klimabonus_average.png')
+
 plt.show()
 
 

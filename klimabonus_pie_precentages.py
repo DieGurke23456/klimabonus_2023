@@ -53,5 +53,7 @@ plt.legend(handles=legend_elements, loc='upper right')
 # Add a title for the entire figure
 plt.suptitle('Wahlverhalten nach Klimabonus Kategorie (NR2019) ')
 
+plt.savefig('klimabonus_pie_percentages.png')
+
 # Display the pie charts
 plt.show()
