@@ -261,7 +261,7 @@
         "SPÖ": "163",
         "NEOS": "32",
         "GRÜNE": "60",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Zagersdorf",
@@ -1737,7 +1737,7 @@
         "SPÖ": "991",
         "NEOS": "172",
         "GRÜNE": "320",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Pinkafeld",
@@ -2085,7 +2085,7 @@
         "SPÖ": "262",
         "NEOS": "40",
         "GRÜNE": "132",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Maria Rain",
@@ -2109,7 +2109,7 @@
         "SPÖ": "462",
         "NEOS": "133",
         "GRÜNE": "224",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Maria Wörth",
@@ -2409,7 +2409,7 @@
         "SPÖ": "1670",
         "NEOS": "315",
         "GRÜNE": "427",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Weitensfeld im Gurktal",
@@ -2697,7 +2697,7 @@
         "SPÖ": "1793",
         "NEOS": "431",
         "GRÜNE": "564",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Stall",
@@ -2913,7 +2913,7 @@
         "SPÖ": "226",
         "NEOS": "58",
         "GRÜNE": "81",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "St. Jakob im Rosental",
@@ -2985,7 +2985,7 @@
         "SPÖ": "735",
         "NEOS": "168",
         "GRÜNE": "223",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Bleiburg",
@@ -3213,7 +3213,7 @@
         "SPÖ": "274",
         "NEOS": "22",
         "GRÜNE": "40",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "St. Paul im Lavanttal",
@@ -3237,7 +3237,7 @@
         "SPÖ": "3157",
         "NEOS": "663",
         "GRÜNE": "895",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Albeck",
@@ -3261,7 +3261,7 @@
         "SPÖ": "1557",
         "NEOS": "421",
         "GRÜNE": "483",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Glanegg",
@@ -3441,7 +3441,7 @@
         "SPÖ": "230",
         "NEOS": "129",
         "GRÜNE": "165",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Behamberg",
@@ -3465,7 +3465,7 @@
         "SPÖ": "151",
         "NEOS": "77",
         "GRÜNE": "118",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Ennsdorf",
@@ -3561,7 +3561,7 @@
         "SPÖ": "445",
         "NEOS": "62",
         "GRÜNE": "101",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Neustadtl an der Donau",
@@ -3585,7 +3585,7 @@
         "SPÖ": "116",
         "NEOS": "69",
         "GRÜNE": "114",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Opponitz",
@@ -3669,7 +3669,7 @@
         "SPÖ": "677",
         "NEOS": "120",
         "GRÜNE": "178",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Strengberg",
@@ -3765,7 +3765,7 @@
         "SPÖ": "109",
         "NEOS": "54",
         "GRÜNE": "71",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Alland",
@@ -3813,7 +3813,7 @@
         "SPÖ": "2033",
         "NEOS": "1361",
         "GRÜNE": "2105",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Berndorf",
@@ -3861,7 +3861,7 @@
         "SPÖ": "45",
         "NEOS": "28",
         "GRÜNE": "39",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Günselsdorf",
@@ -3909,7 +3909,7 @@
         "SPÖ": "376",
         "NEOS": "47",
         "GRÜNE": "98",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Klausen-Leopoldsdorf",
@@ -4101,7 +4101,7 @@
         "SPÖ": "190",
         "NEOS": "54",
         "GRÜNE": "76",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Blumau-Neurißhof",
@@ -4257,7 +4257,7 @@
         "SPÖ": "718",
         "NEOS": "122",
         "GRÜNE": "217",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Petronell-Carnuntum",
@@ -4281,7 +4281,7 @@
         "SPÖ": "139",
         "NEOS": "37",
         "GRÜNE": "48",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Rohrau",
@@ -4545,7 +4545,7 @@
         "SPÖ": "928",
         "NEOS": "338",
         "GRÜNE": "501",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Dürnkrut",
@@ -4629,7 +4629,7 @@
         "SPÖ": "1227",
         "NEOS": "445",
         "GRÜNE": "528",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Großhofen",
@@ -4749,7 +4749,7 @@
         "SPÖ": "420",
         "NEOS": "45",
         "GRÜNE": "87",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Markgrafneusiedl",
@@ -5517,7 +5517,7 @@
         "SPÖ": "355",
         "NEOS": "113",
         "GRÜNE": "189",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Gars am Kamp",
@@ -5589,7 +5589,7 @@
         "SPÖ": "78",
         "NEOS": "20",
         "GRÜNE": "21",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Pernegg",
@@ -5769,7 +5769,7 @@
         "SPÖ": "1263",
         "NEOS": "661",
         "GRÜNE": "951",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Langenzersdorf",
@@ -5853,7 +5853,7 @@
         "SPÖ": "88",
         "NEOS": "47",
         "GRÜNE": "44",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Stetten",
@@ -5865,7 +5865,7 @@
         "SPÖ": "174",
         "NEOS": "73",
         "GRÜNE": "62",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Niederhollabrunn",
@@ -5889,7 +5889,7 @@
         "SPÖ": "1265",
         "NEOS": "441",
         "GRÜNE": "598",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Aggsbach",
@@ -6069,7 +6069,7 @@
         "SPÖ": "289",
         "NEOS": "167",
         "GRÜNE": "243",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Paudorf",
@@ -6129,7 +6129,7 @@
         "SPÖ": "222",
         "NEOS": "80",
         "GRÜNE": "89",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Spitz",
@@ -6165,7 +6165,7 @@
         "SPÖ": "61",
         "NEOS": "48",
         "GRÜNE": "53",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Weißenkirchen in der Wachau",
@@ -6201,7 +6201,7 @@
         "SPÖ": "85",
         "NEOS": "60",
         "GRÜNE": "61",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Annaberg",
@@ -6261,7 +6261,7 @@
         "SPÖ": "58",
         "NEOS": "29",
         "GRÜNE": "39",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Kleinzell",
@@ -6681,7 +6681,7 @@
         "SPÖ": "118",
         "NEOS": "68",
         "GRÜNE": "90",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "St. Leonhard am Forst",
@@ -6729,7 +6729,7 @@
         "SPÖ": "120",
         "NEOS": "23",
         "GRÜNE": "35",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Weiten",
@@ -6753,7 +6753,7 @@
         "SPÖ": "886",
         "NEOS": "115",
         "GRÜNE": "203",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Texingtal",
@@ -6993,7 +6993,7 @@
         "SPÖ": "182",
         "NEOS": "45",
         "GRÜNE": "98",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Kreuzstetten",
@@ -7005,7 +7005,7 @@
         "SPÖ": "173",
         "NEOS": "63",
         "GRÜNE": "121",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Laa an der Thaya",
@@ -7041,7 +7041,7 @@
         "SPÖ": "151",
         "NEOS": "35",
         "GRÜNE": "58",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Niederleis",
@@ -7125,7 +7125,7 @@
         "SPÖ": "311",
         "NEOS": "105",
         "GRÜNE": "208",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Unterstinkenbrunn",
@@ -7161,7 +7161,7 @@
         "SPÖ": "208",
         "NEOS": "62",
         "GRÜNE": "74",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Wolkersdorf im Weinviertel",
@@ -7533,7 +7533,7 @@
         "SPÖ": "383",
         "NEOS": "71",
         "GRÜNE": "85",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Grimmenstein",
@@ -7593,7 +7593,7 @@
         "SPÖ": "148",
         "NEOS": "49",
         "GRÜNE": "85",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Neunkirchen",
@@ -7605,7 +7605,7 @@
         "SPÖ": "1547",
         "NEOS": "281",
         "GRÜNE": "534",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Payerbach",
@@ -7785,7 +7785,7 @@
         "SPÖ": "2420",
         "NEOS": "410",
         "GRÜNE": "625",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Trattenbach",
@@ -7833,7 +7833,7 @@
         "SPÖ": "165",
         "NEOS": "65",
         "GRÜNE": "71",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Willendorf",
@@ -7845,7 +7845,7 @@
         "SPÖ": "85",
         "NEOS": "32",
         "GRÜNE": "65",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Wimpassing im Schwarzatale",
@@ -7857,7 +7857,7 @@
         "SPÖ": "295",
         "NEOS": "26",
         "GRÜNE": "52",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Würflach",
@@ -7869,7 +7869,7 @@
         "SPÖ": "190",
         "NEOS": "54",
         "GRÜNE": "82",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Zöbern",
@@ -7905,7 +7905,7 @@
         "SPÖ": "273",
         "NEOS": "122",
         "GRÜNE": "165",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Asperhofen",
@@ -7929,7 +7929,7 @@
         "SPÖ": "566",
         "NEOS": "198",
         "GRÜNE": "364",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Brand-Laaben",
@@ -7977,7 +7977,7 @@
         "SPÖ": "94",
         "NEOS": "33",
         "GRÜNE": "47",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Hofstetten-Grünau",
@@ -8109,7 +8109,7 @@
         "SPÖ": "213",
         "NEOS": "63",
         "GRÜNE": "119",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Michelbach",
@@ -8145,7 +8145,7 @@
         "SPÖ": "629",
         "NEOS": "341",
         "GRÜNE": "584",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Neustift-Innermanzing",
@@ -8157,7 +8157,7 @@
         "SPÖ": "138",
         "NEOS": "70",
         "GRÜNE": "80",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Nußdorf ob der Traisen",
@@ -8193,7 +8193,7 @@
         "SPÖ": "163",
         "NEOS": "60",
         "GRÜNE": "109",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Pyhra",
@@ -8301,7 +8301,7 @@
         "SPÖ": "985",
         "NEOS": "195",
         "GRÜNE": "355",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Wölbling",
@@ -8337,7 +8337,7 @@
         "SPÖ": "565",
         "NEOS": "438",
         "GRÜNE": "680",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Purkersdorf",
@@ -8349,7 +8349,7 @@
         "SPÖ": "823",
         "NEOS": "551",
         "GRÜNE": "932",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Tullnerbach",
@@ -8361,7 +8361,7 @@
         "SPÖ": "202",
         "NEOS": "143",
         "GRÜNE": "279",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Wolfsgraben",
@@ -8517,7 +8517,7 @@
         "SPÖ": "419",
         "NEOS": "178",
         "GRÜNE": "355",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Steinakirchen am Forst",
@@ -8709,7 +8709,7 @@
         "SPÖ": "710",
         "NEOS": "318",
         "GRÜNE": "409",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Sitzenberg-Reidling",
@@ -8745,7 +8745,7 @@
         "SPÖ": "1225",
         "NEOS": "725",
         "GRÜNE": "1099",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Würmla",
@@ -9033,7 +9033,7 @@
         "SPÖ": "725",
         "NEOS": "117",
         "GRÜNE": "160",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Gutenstein",
@@ -9153,7 +9153,7 @@
         "SPÖ": "361",
         "NEOS": "73",
         "GRÜNE": "106",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Markt Piesting",
@@ -9297,7 +9297,7 @@
         "SPÖ": "77",
         "NEOS": "43",
         "GRÜNE": "48",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Wiesmath",
@@ -9333,7 +9333,7 @@
         "SPÖ": "428",
         "NEOS": "155",
         "GRÜNE": "165",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Zillingdorf",
@@ -9705,7 +9705,7 @@
         "SPÖ": "179",
         "NEOS": "71",
         "GRÜNE": "124",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Eggelsberg",
@@ -9933,7 +9933,7 @@
         "SPÖ": "278",
         "NEOS": "80",
         "GRÜNE": "113",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Neukirchen an der Enknach",
@@ -9945,7 +9945,7 @@
         "SPÖ": "165",
         "NEOS": "66",
         "GRÜNE": "78",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Ostermiething",
@@ -10065,7 +10065,7 @@
         "SPÖ": "194",
         "NEOS": "58",
         "GRÜNE": "127",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "St. Radegund",
@@ -10233,7 +10233,7 @@
         "SPÖ": "236",
         "NEOS": "70",
         "GRÜNE": "120",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Prambachkirchen",
@@ -10413,7 +10413,7 @@
         "SPÖ": "361",
         "NEOS": "113",
         "GRÜNE": "258",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Pierbach",
@@ -10437,7 +10437,7 @@
         "SPÖ": "733",
         "NEOS": "181",
         "GRÜNE": "357",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Rainbach im Mühlkreis",
@@ -10533,7 +10533,7 @@
         "SPÖ": "136",
         "NEOS": "55",
         "GRÜNE": "101",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Wartberg ob der Aist",
@@ -10641,7 +10641,7 @@
         "SPÖ": "1111",
         "NEOS": "519",
         "GRÜNE": "861",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Gosau",
@@ -10761,7 +10761,7 @@
         "SPÖ": "125",
         "NEOS": "30",
         "GRÜNE": "44",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "St. Wolfgang im Salzkammergut",
@@ -10785,7 +10785,7 @@
         "SPÖ": "175",
         "NEOS": "55",
         "GRÜNE": "141",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Scharnstein",
@@ -10797,7 +10797,7 @@
         "SPÖ": "575",
         "NEOS": "174",
         "GRÜNE": "303",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Aistersheim",
@@ -10881,7 +10881,7 @@
         "SPÖ": "464",
         "NEOS": "149",
         "GRÜNE": "291",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Haag am Hausruck",
@@ -10929,7 +10929,7 @@
         "SPÖ": "117",
         "NEOS": "41",
         "GRÜNE": "60",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Meggenhofen",
@@ -11565,7 +11565,7 @@
         "SPÖ": "649",
         "NEOS": "250",
         "GRÜNE": "500",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Niederneukirchen",
@@ -11637,7 +11637,7 @@
         "SPÖ": "3247",
         "NEOS": "509",
         "GRÜNE": "1006",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Wilhering",
@@ -11829,7 +11829,7 @@
         "SPÖ": "1005",
         "NEOS": "265",
         "GRÜNE": "480",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Rechberg",
@@ -11853,7 +11853,7 @@
         "SPÖ": "692",
         "NEOS": "141",
         "GRÜNE": "261",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "St. Georgen am Walde",
@@ -11913,7 +11913,7 @@
         "SPÖ": "862",
         "NEOS": "150",
         "GRÜNE": "346",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Waldhausen im Strudengau",
@@ -12093,7 +12093,7 @@
         "SPÖ": "138",
         "NEOS": "44",
         "GRÜNE": "89",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Mettmach",
@@ -12213,7 +12213,7 @@
         "SPÖ": "971",
         "NEOS": "346",
         "GRÜNE": "612",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "St. Georgen bei Obernberg am Inn",
@@ -12249,7 +12249,7 @@
         "SPÖ": "114",
         "NEOS": "38",
         "GRÜNE": "84",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Schildorn",
@@ -12297,7 +12297,7 @@
         "SPÖ": "106",
         "NEOS": "47",
         "GRÜNE": "79",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Waldzell",
@@ -12465,7 +12465,7 @@
         "SPÖ": "159",
         "NEOS": "57",
         "GRÜNE": "125",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Kollerschlag",
@@ -12741,7 +12741,7 @@
         "SPÖ": "335",
         "NEOS": "198",
         "GRÜNE": "351",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Helfenberg",
@@ -13269,7 +13269,7 @@
         "SPÖ": "1606",
         "NEOS": "271",
         "GRÜNE": "507",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Ternberg",
@@ -13329,7 +13329,7 @@
         "SPÖ": "338",
         "NEOS": "142",
         "GRÜNE": "260",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Altenberg bei Linz",
@@ -13341,7 +13341,7 @@
         "SPÖ": "332",
         "NEOS": "247",
         "GRÜNE": "358",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Bad Leonfelden",
@@ -13389,7 +13389,7 @@
         "SPÖ": "674",
         "NEOS": "171",
         "GRÜNE": "409",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Gallneukirchen",
@@ -13401,7 +13401,7 @@
         "SPÖ": "804",
         "NEOS": "275",
         "GRÜNE": "708",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Goldwörth",
@@ -13425,7 +13425,7 @@
         "SPÖ": "398",
         "NEOS": "282",
         "GRÜNE": "436",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Hellmonsödt",
@@ -13437,7 +13437,7 @@
         "SPÖ": "196",
         "NEOS": "103",
         "GRÜNE": "184",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Herzogsdorf",
@@ -13461,7 +13461,7 @@
         "SPÖ": "175",
         "NEOS": "98",
         "GRÜNE": "201",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Lichtenberg",
@@ -13473,7 +13473,7 @@
         "SPÖ": "260",
         "NEOS": "160",
         "GRÜNE": "267",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Oberneukirchen",
@@ -13533,7 +13533,7 @@
         "SPÖ": "127",
         "NEOS": "52",
         "GRÜNE": "74",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "St. Gotthard im Mühlkreis",
@@ -13545,7 +13545,7 @@
         "SPÖ": "165",
         "NEOS": "39",
         "GRÜNE": "107",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Schenkenfelden",
@@ -13605,7 +13605,7 @@
         "SPÖ": "159",
         "NEOS": "59",
         "GRÜNE": "194",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Vorderweißenbach",
@@ -13701,7 +13701,7 @@
         "SPÖ": "217",
         "NEOS": "58",
         "GRÜNE": "90",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Fornach",
@@ -13929,7 +13929,7 @@
         "SPÖ": "59",
         "NEOS": "22",
         "GRÜNE": "39",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Redleiten",
@@ -14121,7 +14121,7 @@
         "SPÖ": "1248",
         "NEOS": "387",
         "GRÜNE": "881",
-        "klima_category": 4
+        "klima_category": 2
     },
     {
         "ort": "Vöcklamarkt",
@@ -14277,7 +14277,7 @@
         "SPÖ": "648",
         "NEOS": "224",
         "GRÜNE": "287",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Holzhausen",
@@ -14337,7 +14337,7 @@
         "SPÖ": "105",
         "NEOS": "62",
         "GRÜNE": "100",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Pennewang",
@@ -14361,7 +14361,7 @@
         "SPÖ": "283",
         "NEOS": "107",
         "GRÜNE": "195",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Sattledt",
@@ -14385,7 +14385,7 @@
         "SPÖ": "120",
         "NEOS": "82",
         "GRÜNE": "80",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Sipbachzell",
@@ -14433,7 +14433,7 @@
         "SPÖ": "464",
         "NEOS": "264",
         "GRÜNE": "414",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Weißkirchen an der Traun",
@@ -14685,7 +14685,7 @@
         "SPÖ": "78",
         "NEOS": "54",
         "GRÜNE": "64",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Elixhausen",
@@ -14805,7 +14805,7 @@
         "SPÖ": "35",
         "NEOS": "13",
         "GRÜNE": "8",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Hof bei Salzburg",
@@ -14853,7 +14853,7 @@
         "SPÖ": "165",
         "NEOS": "179",
         "GRÜNE": "227",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Neumarkt am Wallersee",
@@ -14865,7 +14865,7 @@
         "SPÖ": "437",
         "NEOS": "199",
         "GRÜNE": "337",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Nußdorf am Haunsberg",
@@ -14877,7 +14877,7 @@
         "SPÖ": "155",
         "NEOS": "88",
         "GRÜNE": "141",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Oberndorf bei Salzburg",
@@ -14997,7 +14997,7 @@
         "SPÖ": "732",
         "NEOS": "575",
         "GRÜNE": "798",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Seekirchen am Wallersee",
@@ -15261,7 +15261,7 @@
         "SPÖ": "159",
         "NEOS": "79",
         "GRÜNE": "67",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Werfen",
@@ -15597,7 +15597,7 @@
         "SPÖ": "414",
         "NEOS": "167",
         "GRÜNE": "138",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Neukirchen am Großvenediger",
@@ -16041,7 +16041,7 @@
         "SPÖ": "580",
         "NEOS": "199",
         "GRÜNE": "285",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Kumberg",
@@ -16101,7 +16101,7 @@
         "SPÖ": "116",
         "NEOS": "47",
         "GRÜNE": "68",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Sankt Oswald bei Plankenwarth",
@@ -16173,7 +16173,7 @@
         "SPÖ": "188",
         "NEOS": "89",
         "GRÜNE": "193",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Übelbach",
@@ -16329,7 +16329,7 @@
         "SPÖ": "367",
         "NEOS": "200",
         "GRÜNE": "347",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Sankt Marein bei Graz",
@@ -16353,7 +16353,7 @@
         "SPÖ": "1010",
         "NEOS": "434",
         "GRÜNE": "697",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Allerheiligen bei Wildon",
@@ -16389,7 +16389,7 @@
         "SPÖ": "91",
         "NEOS": "38",
         "GRÜNE": "65",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Gabersdorf",
@@ -16473,7 +16473,7 @@
         "SPÖ": "217",
         "NEOS": "66",
         "GRÜNE": "81",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Oberhaag",
@@ -16725,7 +16725,7 @@
         "SPÖ": "2782",
         "NEOS": "725",
         "GRÜNE": "844",
-        "klima_category": 4
+        "klima_category": 2
     },
     {
         "ort": "Mautern in Steiermark",
@@ -16785,7 +16785,7 @@
         "SPÖ": "293",
         "NEOS": "45",
         "GRÜNE": "73",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Sankt Stefan ob Leoben",
@@ -16797,7 +16797,7 @@
         "SPÖ": "316",
         "NEOS": "40",
         "GRÜNE": "61",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Traboch",
@@ -16809,7 +16809,7 @@
         "SPÖ": "166",
         "NEOS": "28",
         "GRÜNE": "38",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Vordernberg",
@@ -16965,7 +16965,7 @@
         "SPÖ": "356",
         "NEOS": "23",
         "GRÜNE": "52",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Trieben",
@@ -17277,7 +17277,7 @@
         "SPÖ": "239",
         "NEOS": "48",
         "GRÜNE": "53",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Scheifling",
@@ -17433,7 +17433,7 @@
         "SPÖ": "147",
         "NEOS": "17",
         "GRÜNE": "41",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Hirschegg-Pack",
@@ -17469,7 +17469,7 @@
         "SPÖ": "375",
         "NEOS": "68",
         "GRÜNE": "101",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Söding-Sankt Johann",
@@ -17553,7 +17553,7 @@
         "SPÖ": "168",
         "NEOS": "76",
         "GRÜNE": "174",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Miesenbach bei Birkfeld",
@@ -17577,7 +17577,7 @@
         "SPÖ": "206",
         "NEOS": "60",
         "GRÜNE": "107",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Naas",
@@ -17589,7 +17589,7 @@
         "SPÖ": "117",
         "NEOS": "24",
         "GRÜNE": "62",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Ratten",
@@ -17673,7 +17673,7 @@
         "SPÖ": "215",
         "NEOS": "63",
         "GRÜNE": "133",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Anger",
@@ -17733,7 +17733,7 @@
         "SPÖ": "202",
         "NEOS": "48",
         "GRÜNE": "128",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Ilztal",
@@ -17781,7 +17781,7 @@
         "SPÖ": "306",
         "NEOS": "184",
         "GRÜNE": "303",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Weiz",
@@ -17793,7 +17793,7 @@
         "SPÖ": "1580",
         "NEOS": "344",
         "GRÜNE": "689",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Fohnsdorf",
@@ -17925,7 +17925,7 @@
         "SPÖ": "1704",
         "NEOS": "196",
         "GRÜNE": "356",
-        "klima_category": 4
+        "klima_category": 2
     },
     {
         "ort": "Obdach",
@@ -17985,7 +17985,7 @@
         "SPÖ": "336",
         "NEOS": "76",
         "GRÜNE": "84",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Spielberg",
@@ -17997,7 +17997,7 @@
         "SPÖ": "837",
         "NEOS": "115",
         "GRÜNE": "163",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Weißkirchen in Steiermark",
@@ -18009,7 +18009,7 @@
         "SPÖ": "488",
         "NEOS": "169",
         "GRÜNE": "179",
-        "klima_category": 2
+        "klima_category": 4
     },
     {
         "ort": "Breitenau am Hochlantsch",
@@ -18057,7 +18057,7 @@
         "SPÖ": "374",
         "NEOS": "71",
         "GRÜNE": "114",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Sankt Lorenzen im Mürztal",
@@ -18201,7 +18201,7 @@
         "SPÖ": "346",
         "NEOS": "75",
         "GRÜNE": "108",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Thörl",
@@ -18321,7 +18321,7 @@
         "SPÖ": "327",
         "NEOS": "215",
         "GRÜNE": "440",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Lafnitz",
@@ -18501,7 +18501,7 @@
         "SPÖ": "574",
         "NEOS": "250",
         "GRÜNE": "454",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Grafendorf bei Hartberg",
@@ -18765,7 +18765,7 @@
         "SPÖ": "216",
         "NEOS": "85",
         "GRÜNE": "116",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Deutsch Goritz",
@@ -18801,7 +18801,7 @@
         "SPÖ": "899",
         "NEOS": "376",
         "GRÜNE": "493",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Kirchbach-Zerlach",
@@ -18861,7 +18861,7 @@
         "SPÖ": "100",
         "NEOS": "62",
         "GRÜNE": "80",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Riegersburg",
@@ -19701,7 +19701,7 @@
         "SPÖ": "82",
         "NEOS": "98",
         "GRÜNE": "128",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Sellrain",
@@ -19833,7 +19833,7 @@
         "SPÖ": "488",
         "NEOS": "257",
         "GRÜNE": "521",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Volders",
@@ -20049,7 +20049,7 @@
         "SPÖ": "44",
         "NEOS": "56",
         "GRÜNE": "75",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "St. Jakob in Haus",
@@ -20589,7 +20589,7 @@
         "SPÖ": "650",
         "NEOS": "341",
         "GRÜNE": "386",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Nauders",
@@ -21177,7 +21177,7 @@
         "SPÖ": "31",
         "NEOS": "27",
         "GRÜNE": "24",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Breitenwang",
@@ -21225,7 +21225,7 @@
         "SPÖ": "24",
         "NEOS": "23",
         "GRÜNE": "45",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Elmen",
@@ -21369,7 +21369,7 @@
         "SPÖ": "23",
         "NEOS": "13",
         "GRÜNE": "15",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Namlos",
@@ -21417,7 +21417,7 @@
         "SPÖ": "76",
         "NEOS": "33",
         "GRÜNE": "57",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Pinswang",
@@ -21441,7 +21441,7 @@
         "SPÖ": "496",
         "NEOS": "185",
         "GRÜNE": "269",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Schattwald",
@@ -21525,7 +21525,7 @@
         "SPÖ": "58",
         "NEOS": "29",
         "GRÜNE": "22",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Zöblen",
@@ -21825,7 +21825,7 @@
         "SPÖ": "121",
         "NEOS": "89",
         "GRÜNE": "113",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Steinberg am Rofan",
@@ -21909,7 +21909,7 @@
         "SPÖ": "397",
         "NEOS": "171",
         "GRÜNE": "305",
-        "klima_category": 4
+        "klima_category": 3
     },
     {
         "ort": "Weer",
@@ -22077,7 +22077,7 @@
         "SPÖ": "99",
         "NEOS": "54",
         "GRÜNE": "64",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Klösterle",
@@ -22101,7 +22101,7 @@
         "SPÖ": "18",
         "NEOS": "81",
         "GRÜNE": "38",
-        "klima_category": 3
+        "klima_category": 4
     },
     {
         "ort": "Lorüns",
@@ -22113,7 +22113,7 @@
         "SPÖ": "12",
         "NEOS": "11",
         "GRÜNE": "20",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Ludesch",
@@ -22233,7 +22233,7 @@
         "SPÖ": "9",
         "NEOS": "14",
         "GRÜNE": "14",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Thüringen",
@@ -22569,7 +22569,7 @@
         "SPÖ": "321",
         "NEOS": "294",
         "GRÜNE": "345",
-        "klima_category": 4
+        "klima_category": 2
     },
     {
         "ort": "Mellau",
@@ -22605,7 +22605,7 @@
         "SPÖ": "13",
         "NEOS": "26",
         "GRÜNE": "20",
-        "klima_category": 2
+        "klima_category": 3
     },
     {
         "ort": "Riefensberg",
@@ -22665,7 +22665,7 @@
         "SPÖ": "185",
         "NEOS": "263",
         "GRÜNE": "291",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Schwarzenberg",
@@ -22725,7 +22725,7 @@
         "SPÖ": "2741",
         "NEOS": "2430",
         "GRÜNE": "3349",
-        "klima_category": 4
+        "klima_category": 2
     },
     {
         "ort": "Hohenems",
@@ -22857,7 +22857,7 @@
         "SPÖ": "133",
         "NEOS": "222",
         "GRÜNE": "293",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Laterns",
@@ -22905,7 +22905,7 @@
         "SPÖ": "597",
         "NEOS": "577",
         "GRÜNE": "939",
-        "klima_category": 3
+        "klima_category": 2
     },
     {
         "ort": "Röns",
@@ -23110,12 +23110,12 @@
         "matched_ort": "Wien 8.,Josefstadt",
         "plz": "1080",
         "total": "12720",
-     "ÖVP": "2912",
-     "SPÖ": "2283",
-     "FPÖ": "781",
-     "NEOS": "1813",
-     "JETZT": "510",
-     "GRÜNE": "4120",
+        "ÖVP": "2912",
+        "SPÖ": "2283",
+        "FPÖ": "781",
+        "NEOS": "1813",
+        "JETZT": "510",
+        "GRÜNE": "4120",
         "klima_category": 1
     },
     {
@@ -23194,7 +23194,7 @@
         "NEOS": "4552",
         "JETZT": "1276",
         "GRÜNE": "9373",
-        "klima_category": 3
+        "klima_category": 1
     },
     {
         "ort": "Rudolfsheim-Fünfhaus",

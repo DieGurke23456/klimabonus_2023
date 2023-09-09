@@ -36,7 +36,6 @@ for idx, key in enumerate(filtered_data.keys(), start=1):
     # Find the best match for "ort" in PLZ data using fuzzy matching
     best_match, score = process.extractOne(ort, plz_mapping.keys(), scorer=fuzz.ratio)
     
-    # Add the PLZ information to the GeoJSON feature
     # add plz of best match  
     plz = plz_mapping.get(best_match, None)
     print(f"Processed {idx}/{total_features} features")
@@ -44,8 +43,15 @@ for idx, key in enumerate(filtered_data.keys(), start=1):
     type_value = type_data.get(str(plz), 0)
     if isinstance(type_value, list):
         # If the type information is a list, take the first item's type
-        type_value = type_value[0]['type']
-    
+        list_a = list(
+            x for x in type_value
+            if x['name'] == ort
+        )
+        if len(list_a) == 0:
+            type_value = type_value[0]['type']
+        else:
+            type_value = list_a[0]['type']
+
     
     to_store.append(
         {
